@@ -1,2 +1,1 @@
-# Portfolio
-#portfolio My first portfolio with my web dev skills
+my first portfolio with my web dev skills
